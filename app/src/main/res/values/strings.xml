@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyFoodApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="hello_explore_your_dream_food">Hello explore your dream food</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="todo">TODO</string>
+    <string name="gna_s_recipe_app">GNA\'S RECIPE APP</string>
+    <string name="full_name">Full name</string>
+    <string name="password">Password</string>
+    <string name="already_registered">Already Registered ?</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account ?</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="daily_meal">Daily Meal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_cart">My Cart</string>
+    <string name="gozdenurakca_hotmail_com">gozdenurakca@hotmail.com</string>
+    <string name="g_n_a">G N A</string>
+    <string name="log_out">Log Out</string>
+    <string name="email">Email</string>
+    <string name="search_for_the_food_you_want_to_cook">Search for the food you want to cook.</string>
+    <string name="todo_">TODO</string>
+    <string name="hello_gozde">Hello Gözde</string>
+    <string name="what_do_you_want_to_cook">What do you want to cook?</string>
+    <string name="pizza">Pizza</string>
+    <string name="product_name">Product Name</string>
+    <string name="_5_0">5.0</string>
+    <string name="min_45">Min $45</string>
+    <string name="_30_35_minutes">30-35 minutes</string>
+    <string name="meatball">Meatball</string>
+    <string name="kofteresim">kofteResim</string>
+</resources>
